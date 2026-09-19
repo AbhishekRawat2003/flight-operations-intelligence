@@ -419,9 +419,6 @@ flight-operations-intelligence/
 ├── models/
 │   └── generated model files
 │
-├── notebooks/
-│   └── flights.ipynb
-│
 ├── sql/
 │   └── flight_analysis.sql
 │
