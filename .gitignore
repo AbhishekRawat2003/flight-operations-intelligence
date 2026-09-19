@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+
+# Generated ML models
+models/*.joblib
+
+# Large datasets
+data/*.csv
+!data/sample_flight_data.csv
